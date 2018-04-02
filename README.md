@@ -17,3 +17,13 @@ Contains Python teaching materials.
 
 # practice folder
 - Contains extra Practice problems and solutions.
+
+# Sources
+- The Course Plan / Homework Problem Sets was inspired by John Denero and Paul Hilfinger from the Computer Science Department in UC Berkeley, cs61a.org.
+- The Project, ‘2048’ was inspired from Tay Yang Shun, “https://github.com/yangshun/2048-python.
+
+# Copyright
+Author: Hyun Jae Moon
+B.S. Electrical Engineering & Computer Science
+University of California, Berkeley
+hyunjaemoon@berkeley.edu
