@@ -1,6 +1,6 @@
 # pythonteaching
-
 Contains Python teaching materials.
+This git repo does NOT contain any solutions to the questions. It only includes lecture notes and questions, so that it avoids current CS61A students from cheating, promising Academic Integrity.
 
 # lec, hw folder
 - py file: Students will edit this file to reach the correct solution 
