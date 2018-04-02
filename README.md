@@ -4,7 +4,7 @@ This git repo does NOT contain any solutions to the questions. It only includes 
 
 # lec, hw folder
 - py file: Students will edit this file to reach the correct solution 
-- autograder.pyc / Q<number>.pyc files (Python 3.6.3): Students can check if their solution is correct by running pyc files. 
+- autograder.pyc / Q{number}.pyc files (Python 3.6.3): Students can check if their solution is correct by running pyc files. 
 - wwpd_{name}.pyc files (Python 3.6.3): Students will have to answer 'what would python display (wwpd)' by typing directly into the terminal.
   
 # Course Syllabus.pdf
