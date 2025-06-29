@@ -1,11 +1,9 @@
 # pythonteaching
 Contains Python teaching materials.
-This git repo does NOT contain any solutions to the questions. It only includes lecture notes and questions, so that it prevents current CS61A students from cheating.
+This git repo does NOT contain any solutions to the questions. It only includes lecture notes and questions.
 
 # lec, hw folder
 - py file: Students will edit this file to reach the correct solution 
-- autograder.pyc / Q{number}.pyc files (Python 3.6.3): Students can check if their solution is correct by running pyc files. 
-- wwpd_{name}.pyc files (Python 3.6.3): Students will have to answer 'what would python display (wwpd)' by typing directly into the terminal.
 - The homework solution will not be posted to avoid potential academic dishonesty in cs61a.
   
 # Course Syllabus.pdf
