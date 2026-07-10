@@ -1,0 +1,15 @@
+[project]
+name = "pythonteaching"
+version = "1.0.0"
+description = "Python teaching materials: lecture notes, homework problem sets, and a 2048 project"
+requires-python = ">=3.9"
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]
+# Student skeletons intentionally contain unused names/expressions
+# ("*** YOUR CODE HERE ***" placeholders), so keep lint gentle there.
+per-file-ignores = { "src/hw*/*.py" = ["F", "E", "W"], "src/lec*/*.py" = ["F", "E", "W"] }
