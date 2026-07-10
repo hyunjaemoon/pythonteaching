@@ -1,5 +1,5 @@
 
-from random import *
+from random import randint
 
 #######
 #Task 1a#
